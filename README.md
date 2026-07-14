@@ -6,7 +6,7 @@ Non serve saper programmare: apri il notebook in Colab, esegui le celle in ordin
 
 ## Apri in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/03gilbe-design/lezioni-univr-schemi/blob/main/App_Lezioni_Schemi_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/03gilbe-design/lezioni-univr-schemi/blob/master/App_Lezioni_Schemi_Colab.ipynb)
 
 ## Cosa serve
 
