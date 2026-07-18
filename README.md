@@ -1,5 +1,7 @@
 # Lezioni UniVR verso Appunti e Schemi
 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+
 App Google Colab che trasforma una lezione (video Panopto UniVR, dal PC, o da Google Drive) in appunti, esercizi o schemi con diagrammi e immagini delle slide.
 
 Non serve saper programmare: apri il notebook in Colab, esegui le celle in ordine e compila i campi che compaiono.
